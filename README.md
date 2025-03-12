@@ -9,7 +9,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAAhZTbSjN1J4olDV4B5VDA?style=social)](https://www.youtube.com/@FeiipeCarlos?sub_confirmation=1)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCAAhZTbSjN1J4olDV4B5VDA?label=channel%20views&style=social)](https://www.youtube.com/@FeiipeCarlos)
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width = 50px></picture> **About me**
 
 - 🦾 A self-taught and passionate DevOps Engineer
 - 🎥 I show you how I'm transitioning from QA to DevOps in [Youtube](https://www.youtube.com/@FeiipeCarlos?sub_confirmation=1)
@@ -28,13 +28,13 @@
 <br>
 <h3 align="center">I built a Homelab from scratch: Problems with Ubuntu and K3s</h3>	
 <div align="center">
-<a href="https://github.com/FelipeCarlosTech/homelab" target="_blank"><img src="https://i.ibb.co/r5rRbtM/AUTOMATION-TESTING-6.png" width="400" alt="I built a Homelab from scratch: Problems with Ubuntu and K3s"></a>
+<a href="https://github.com/FelipeCarlosTech/homelab" target="_blank"><img src="https://i.ibb.co/ZppXjfd1/2-1.png" width="400" alt="I built a Homelab from scratch: Problems with Ubuntu and K3s"></a>
 <br>
 <p>
 <a href="https://github.com/FelipeCarlosTech/homelab" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/Shtx4g-paug" target="_blank">
+<a href="https://www.youtube.com/watch?v=ekEXkYg5LJY&t=193s" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
@@ -81,7 +81,7 @@
 
 <li>
 <a href="mailto:felipecarlostech@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  felipecarlostech-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  felipecarlos-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
