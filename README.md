@@ -6,8 +6,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Felipe+Carlos...;++;DevOps+Engineer,;SRE,;Automate+Software+with+Quality,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAAhZTbSjN1J4olDV4B5VDA?style=social)](https://www.youtube.com/@FeiipeCarlos?sub_confirmation=1)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCAAhZTbSjN1J4olDV4B5VDA?label=channel%20views&style=social)](https://www.youtube.com/@FeiipeCarlos)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2qSf51jkPoOC8izA7ByPrA?style=social)](https://www.youtube.com/@FeiipeCarlos?sub_confirmation=1)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC2qSf51jkPoOC8izA7ByPrA?label=channel%20views&style=social)](https://www.youtube.com/@FeiipeCarlos)
 
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width = 50px></picture> **About me**
 
