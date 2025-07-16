@@ -28,7 +28,7 @@
 <br>
 <h3 align="center">I built a Homelab from scratch: Problems with Ubuntu and K3s</h3>	
 <div align="center">
-<a href="https://github.com/FelipeCarlosTech/homelab" target="_blank"><img src="[![hqdefault.avif](https://i.postimg.cc/TYstJnp7/hqdefault.avif)](https://postimg.cc/WhMm2Fmg)" width="400" alt="I built a Homelab from scratch: Problems with Ubuntu and K3s"></a>
+<a href="https://github.com/FelipeCarlosTech/homelab" target="_blank"><img src="https://i.postimg.cc/TYstJnp7/hqdefault.avif" width="400" alt="I built a Homelab from scratch: Problems with Ubuntu and K3s"></a>
 <br>
 <p>
 <a href="https://github.com/FelipeCarlosTech/homelab" target="_blank">
